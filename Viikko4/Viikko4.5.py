@@ -13,4 +13,3 @@ while vaaria < 5:
     salasana = input("anna salasana:", )
 if vaaria == 5:
     print("pääsy evätty")
-
